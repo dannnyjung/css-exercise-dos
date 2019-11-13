@@ -23,10 +23,7 @@ p {
 }
 
 nav {
-  font-size: 0.75em;
-}
-
-nav {
+  font-size: 1em;
   background-color: rgba(0,0,0,.5);
   float: left;
   position: fixed;
